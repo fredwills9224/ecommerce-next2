@@ -15,7 +15,7 @@ const Usernav: FC = ()=>{
     }, 0) ?? 0;
     return(
         <nav>
-            <ul className={s.list!}>
+            <ul className='flex'>
 
                 <li className={s.item}>
                     <Cart onClick={openSidebar}/>
