@@ -38,8 +38,8 @@ export default function Home({ products }: InferGetStaticPropsType<typeof getSta
 
       </Grid>
       <Hero
-        headline='Cookies, ice cream and muffin'
-        description='Bear claw candy macaroon cotton candy bear claw pudding brownie marshmallow marzipan. Cheesecake lemon drops muffin gingerbread candy canes cake tart. Cotton candy gingerbread carrot cake gummies sweet roll chocolate bar. Caramels croissant shortbread cotton candy toffee halvah soufflé apple pie sweet roll. Candy gummi bears caramels topping oat cake. Cotton candy fruitcake halvah marshmallow sesame snaps.'
+        headline='Jackets, Caps and T-shirts'
+        description={`MEET YOUR FAVORITE COLD-WEATHER CAP | Premium Imports' Versatile Knit Beanie Hat Keeps Your Head, Scalp & Ears Warm & Dry Ultralight, versatile, and packable, this down jacket for men is a consummate traveler, whether your destination is cross town or far off the beaten path. The quick drying T-shirt suitable for most outdoor activities including sports, hiking, climbing, biking, cycling, weight lifting and just for daily use.`}
       />
       <Marquee>
 
